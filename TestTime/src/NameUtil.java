@@ -3,6 +3,7 @@ public class NameUtil {
 	private static String nameStr1 = "马云";
 	private static String nameStr2 = "章泽天";
 	private static String nameStr3 = "小泉纯一郎";
+	private static String nameStr4 = "尼古拉斯凯奇";
 	
 	public static void main(String[] args) {
 		getProtectedName(nameStr1,ProtectMode.PROTECT_AFTER_FISRT);
